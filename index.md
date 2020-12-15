@@ -4,8 +4,6 @@
 ---
 ### 1. Candlekeep
 
-#### - Quests
-
 * Firebead's Scroll
 
   > Quest-giver: **Firebead Elvenhair**;\
