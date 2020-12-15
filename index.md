@@ -1,4 +1,4 @@
-﻿# BGEE - Side Quests
+# BGEE - Side Quests
 ---
 ## Prologue
 ---
@@ -7,6 +7,7 @@
 #### - Quests
 
 * Firebead's Scroll
+
   > Quest-giver: **Firebead Elvenhair**;\
   > Location: **Candlekeep Inn**;\
   > Steps:
@@ -21,6 +22,7 @@
   > * Protected From Evil by Firebead for twenty-two rounds
   
 * Phlydia's Book
+
   > Quest-giver: **Phlydia**;\
   > Location: **Northwest Candlekeep, near the Inn**;\
   > Steps:
@@ -36,6 +38,7 @@
   >     * Lynx Eye Gem;
   
 * Dreppin's Cow & Hull's Sword
+
   > Quest-giver: **Dreppin**;\
   > Location: **Candlekeep Stables**;\
   > Steps:
@@ -56,6 +59,7 @@
   > * 50 XP (party);
   
 * Reevor's Storehouse
+
   > Quest-giver: **Reevor**;\
   > Location: **Outside Candlekeep Storehouse, near the Temple**;\
   > Steps:
@@ -68,6 +72,7 @@
   > * 5 GP;
   
 * An Errand for Fuller
+
     > Quest-giver: **Fuller**;\
     > Location: **Inside the Candlekeep Barracks**;\
     > Steps:
@@ -82,6 +87,7 @@
     > * Reaction 15+ :
     >   * 50 XP (party);
     >   * Dagger +1;
+    
 ---
 ## Chapter 1
 ---
