@@ -6,6 +6,9 @@
 
 * Firebead's Scroll
 
+<details>
+    <summary>Click to expand!</summary>
+  
   > Quest-giver: **Firebead Elvenhair**;\
   > Location: **Candlekeep Inn**;\
   > Steps:
@@ -19,6 +22,9 @@
   > * Potion of Healing
   > * Protected From Evil by Firebead for twenty-two rounds
   
+    
+</details>
+
 * Phlydia's Book
 
   > Quest-giver: **Phlydia**;\
